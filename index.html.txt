@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>benav - Mobil Uygulamalar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #1a5e1f, #2d8a34);
+            color: white;
+            text-align: center;
+        }
+        .container { padding: 40px; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; }
+        p { font-size: 1.2em; opacity: 0.9; }
+        a { color: #90EE90; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>benav</h1>
+        <p>Kullanıcı odaklı, kaliteli ve yenilikçi mobil uygulamalar</p>
+        <p><a href="https://play.google.com/store/apps/developer?id=benav">Google Play'de Uygulamalarımız</a></p>
+    </div>
+</body>
+</html>
